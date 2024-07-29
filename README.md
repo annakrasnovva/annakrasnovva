@@ -15,6 +15,7 @@ how to contact me: Telegram @aryazh or email akrasnova424@gmail.com
 ## Projects
 
 "The Sales" progect
+https://github.com/annakrasnovva/data-analytics-project-92
 
 <!--
 **annakrasnovva/annakrasnovva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
