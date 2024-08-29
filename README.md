@@ -14,7 +14,7 @@ how to contact me: Telegram @aryazh or email akrasnova424@gmail.com
 
 ## Projects
 
-"The Sales" progect
+"The Sales" project
 https://github.com/annakrasnovva/data-analytics-project-92
 
 <!--
