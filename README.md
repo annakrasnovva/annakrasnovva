@@ -9,13 +9,18 @@ how to contact me: Telegram @aryazh or email akrasnova424@gmail.com
 * PostgreSQL
 * DBeaver
 * Google Sheets
-* Python (basics)
 * Preset
+* Python (pandas, numpy, matplotlib)
+* Anaconda
+* Jupyter Notebook
 
 ## Projects
 
 "The Sales" project
 https://github.com/annakrasnovva/data-analytics-project-92
+
+"The online-school" project
+https://github.com/annakrasnovva/data-analytics-project-96
 
 <!--
 **annakrasnovva/annakrasnovva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
