@@ -2,7 +2,7 @@
 
 I'm a junior data-analyst. Studied at the Hexlet online-school.
 
-how to contact me: Telegram @aryazh or email akrasnova424@gmail.com
+How to contact me: Telegram @aryazh or email akrasnova424@gmail.com
 
 ## Tech stack
 
