@@ -1,6 +1,6 @@
 ## Hi there! 👋 
 
-I'm a junior data-analyst, studying at the Hexlet online-school.
+I'm a junior data-analyst. Studied at the Hexlet online-school.
 
 how to contact me: Telegram @aryazh or email akrasnova424@gmail.com
 
