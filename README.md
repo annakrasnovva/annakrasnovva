@@ -9,7 +9,7 @@ How to contact me: Telegram @aryazh or email akrasnova424@gmail.com
 * PostgreSQL
 * DBeaver
 * Google Sheets
-* Preset
+* Superset
 * Python (pandas, numpy, matplotlib)
 * Anaconda
 * Jupyter Notebook
