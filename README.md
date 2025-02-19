@@ -16,11 +16,11 @@ How to contact me: Telegram @aryazh or email akrasnova424@gmail.com
 
 ## Projects
 
-["The Sales" project](https://github.com/annakrasnovva/data-analytics-project-92/)
+["The Sales" project](https://github.com/annakrasnovva/data-analytics-project-92/) — analysis of sales, sellers and customers of the company (GMV).
 
-["The online-school" project](https://github.com/annakrasnovva/data-analytics-project-96/)
+["The online-school" project](https://github.com/annakrasnovva/data-analytics-project-96/) — evaluating the effectiveness of a marketing campaign (CR, ROI, CPA).
 
-["Conversion dashboard" project](https://github.com/annakrasnovva/data-analytics-project-100/)
+["Conversion dashboard" project](https://github.com/annakrasnovva/data-analytics-project-100/) — website conversion analysis, coding and plotting graphs using Python libraries.
 
 <!--
 **annakrasnovva/annakrasnovva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
