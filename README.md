@@ -6,12 +6,10 @@ How to contact me: Telegram @aryazh or email akrasnova424@gmail.com
 
 ## Tech stack
 
-* PostgreSQL
-* DBeaver
-* Google Sheets
-* Superset
+* SQL (PostgeSQL)
+* Excel (VLOOKUP, )
+* Apache Superset
 * Python (pandas, numpy, matplotlib)
-* Anaconda
 * Jupyter Notebook
 
 ## Projects
