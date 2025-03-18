@@ -7,7 +7,7 @@ How to contact me: Telegram @aryazh or email akrasnova424@gmail.com
 ## Tech stack
 
 * SQL (PostgeSQL)
-* Excel (VLOOKUP, )
+* Excel
 * Apache Superset
 * Python (pandas, numpy, matplotlib)
 * Jupyter Notebook
