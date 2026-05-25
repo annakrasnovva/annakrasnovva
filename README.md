@@ -6,8 +6,8 @@ How to contact me: Telegram @ann4ja or email akrasnova424@gmail.com
 
 ## Tech stack
 
-* SQL (PostgeSQL)
-* Excel
+* SQL (PostgreSQL)
+* Excel/Google Sheets
 * Apache Superset
 * Python (pandas, numpy, matplotlib)
 * Jupyter Notebook
